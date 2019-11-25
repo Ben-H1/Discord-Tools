@@ -1,0 +1,13 @@
+C:\Users\bened\Documents\Visual Studio 2017\Projects\DiscordTools\DiscordTools\bin\Debug\DiscordTools.exe.config
+C:\Users\bened\Documents\Visual Studio 2017\Projects\DiscordTools\DiscordTools\bin\Debug\DiscordTools.exe
+C:\Users\bened\Documents\Visual Studio 2017\Projects\DiscordTools\DiscordTools\bin\Debug\DiscordTools.pdb
+C:\Users\bened\Documents\Visual Studio 2017\Projects\DiscordTools\DiscordTools\obj\Debug\DiscordTools.csprojAssemblyReference.cache
+C:\Users\bened\Documents\Visual Studio 2017\Projects\DiscordTools\DiscordTools\obj\Debug\DiscordTools.Form1.resources
+C:\Users\bened\Documents\Visual Studio 2017\Projects\DiscordTools\DiscordTools\obj\Debug\DiscordTools.Properties.Resources.resources
+C:\Users\bened\Documents\Visual Studio 2017\Projects\DiscordTools\DiscordTools\obj\Debug\DiscordTools.csproj.GenerateResource.cache
+C:\Users\bened\Documents\Visual Studio 2017\Projects\DiscordTools\DiscordTools\obj\Debug\DiscordTools.csproj.CoreCompileInputs.cache
+C:\Users\bened\Documents\Visual Studio 2017\Projects\DiscordTools\DiscordTools\obj\Debug\DiscordTools.exe
+C:\Users\bened\Documents\Visual Studio 2017\Projects\DiscordTools\DiscordTools\obj\Debug\DiscordTools.pdb
+C:\Users\bened\Documents\Visual Studio 2017\Projects\DiscordTools\DiscordTools\obj\Debug\DiscordTools.EmojiForm.resources
+C:\Users\bened\Documents\Visual Studio 2017\Projects\DiscordTools\DiscordTools\obj\Debug\DiscordTools.FontForm.resources
+C:\Users\bened\Documents\Visual Studio 2017\Projects\DiscordTools\DiscordTools\obj\Debug\DiscordTools.SpoilerForm.resources
